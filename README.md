@@ -119,20 +119,6 @@ A Machine Learning application that predicts Tuberculosis using clinical and sym
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Hemasivak&theme=tokyonight&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hemasivak&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemasivak&layout=compact&theme=tokyonight&hide_border=true)
-
-</p>
-
----
-
 # 🛠 Tech Stack
 
 ### Programming Languages
